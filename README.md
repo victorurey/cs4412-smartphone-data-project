@@ -1,4 +1,3 @@
-# cs4412-smartphone-data-project
-
+# Smartphone Specifications Pattern Mining
 ## Include
 ###Project Title, Description, Dataset source link, Name
