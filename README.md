@@ -3,6 +3,20 @@ This project aims to investigate patterns between smartphone hardware and their 
 
 # Dataset Documentation
 * Kaggle - Smartphone Specifications Dataset - [View](https://www.kaggle.com/datasets/devgondaliya007/smartphone-specifications-dataset)
-* Kaggle - World's Best-Selling Phone's Sales - [View](https://www.kaggle.com/datasets/muhammadroshaanriaz/global-best-selling-phone-sales)
+Size: 986 rows, 27 columns
+File size: 170.32kB
+
+This data set provides a comprehensive view of smartphone models and their specifications on the market today. It includes nearly 1000 different smartphone models and is useful for studying patterns between hardware specifications, pricing, and consumer buying trends. This data was collected across multiple mobile comparison and e-commerce websites to provide a wide array of phone models and their pricing.
+
+Of these attributes, five variables were selected for mining: 
+- RAM (gb)
+- Battery Capacity (mAh)
+- Rear Camera Resolution (mp)
+- Screen Size (in)
+- Price at release
+
+These values are normalized and standardized before being used in EDA or Clustering techniques.
+
+
 
 Project by Victor Urey
