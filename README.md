@@ -20,9 +20,9 @@ These values are normalized and standardized before being used in EDA or Cluster
 
 # Discovery Questions
 My two discovery questions are as follows:
-- **What natural groupings of smartphones can be discovered based on the combinations of hardware specifications across different price tiers?
+- **What natural groupings of smartphones can be discovered based on the combinations of hardware specifications across different price tiers?**
 
-- What combinations of hardware features frequently appear across smartphone models from major brands?**
+- **What combinations of hardware features frequently appear across smartphone models from major brands?**
 
 
 # Preprocessing 
