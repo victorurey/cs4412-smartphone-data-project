@@ -51,4 +51,7 @@ Five key features—RAM, Battery Capacity, Rear Camera Resolution, Screen Size, 
   - Unusually high prices
   - Large RAM values
 
+# Key Takeaways
+The EDA revealed sufficient variation in hardware specifications to support pattern discovery, identifying natural groupings of devices across pricing tiers using K-Means clustering. While some clusters may reflect outliers or data errors, the dataset provides a strong foundation for association rule mining in M3, especially once missing operating system values are populated.
+
 Project by Victor Urey
