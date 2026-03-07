@@ -32,8 +32,6 @@ Instead of dropping all missing entries, I removed only rows missing one of the 
 ## Outliers
 Although some Price, RAM, and Battery Capacity values appeared as outliers, they corresponded to valid high-end devices and were retained to preserve the full range of smartphone specifications.
 
-## Creating Tiers
-Five key features—RAM, Battery Capacity, Rear Camera Resolution, Screen Size, and Price—were selected, and Price was used to categorize smartphones into low-, mid-, and high-tier devices for pattern discovery.
 
 
 # Clustering Implementation
