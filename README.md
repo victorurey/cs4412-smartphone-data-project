@@ -42,11 +42,12 @@ Five key features—RAM, Battery Capacity, Rear Camera Resolution, Screen Size, 
 ## Cluster Interpretation
 - Six clusters revealed natural groupings of smartphones
 - Four clusters revealed solid tiers:
--- Older devices
+  - Older devices
   - Budget Oriented Devices
   - Mid Range Devices
   - High-end Flagship Devices
 - Two clusters revealed potential data inconsistencies:
--- Unusually high prices
+  - Unusually high prices
   - Large RAM values
+
 Project by Victor Urey
